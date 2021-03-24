@@ -7,4 +7,4 @@ Railgun_PK_Fighter 是一个命令行小游戏，大炮打飞机
 
 MovieRecommendation 模拟电影推荐
 
-其余两个文件夹里就是自己学习使进行的练习
+其余两个文件夹里就是自己学习时进行的练习
